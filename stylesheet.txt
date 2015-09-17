@@ -1,0 +1,95 @@
+.icon {
+    background-image: url(spritesheet.png);
+    background-repeat: no-repeat;
+    display: block;
+}
+
+.icon-icon_arrow_down {
+    width: 18px;
+    height: 29px;
+    background-position: -10px -10px;
+}
+
+.icon-icon_ballon {
+    width: 44px;
+    height: 65px;
+    background-position: -48px -10px;
+}
+
+.icon-icon_binoculars {
+    width: 72px;
+    height: 34px;
+    background-position: -112px -10px;
+}
+
+.icon-icon_footer_arrow {
+    width: 29px;
+    height: 29px;
+    background-position: -112px -64px;
+}
+
+.icon-icon_galery_arrow {
+    width: 20px;
+    height: 33px;
+    background-position: -161px -64px;
+}
+
+.icon-icon_glasses {
+    width: 75px;
+    height: 28px;
+    background-position: -10px -117px;
+}
+
+.icon-icon_hand {
+    width: 56px;
+    height: 58px;
+    background-position: -105px -117px;
+}
+
+.icon-icon_mail {
+    width: 23px;
+    height: 17px;
+    background-position: -181px -117px;
+}
+
+.icon-icon_photocamera {
+    width: 65px;
+    height: 50px;
+    background-position: -204px -10px;
+}
+
+.icon-icon_plane {
+    width: 41px;
+    height: 40px;
+    background-position: -224px -80px;
+}
+
+.icon-icon_point {
+    width: 35px;
+    height: 50px;
+    background-position: -224px -140px;
+}
+
+.icon-icon_question {
+    width: 40px;
+    height: 34px;
+    background-position: -10px -210px;
+}
+
+.icon-icon_socio-fb {
+    width: 22px;
+    height: 23px;
+    background-position: -279px -140px;
+}
+
+.icon-icon_socio-in {
+    width: 22px;
+    height: 23px;
+    background-position: -181px -183px;
+}
+
+.icon-icon_socio-vk {
+    width: 22px;
+    height: 23px;
+    background-position: -279px -183px;
+}
